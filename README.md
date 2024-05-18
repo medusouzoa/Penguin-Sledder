@@ -1,7 +1,9 @@
 # Penguin-Sledder
 This file includes the runner game, Penguin Sledder gameplay video and some code examples from the project. 
+
 # Description
-Penguin Sledder is a runner game 
+Penguin Sledder is a runner game where players slide on a penguin through various terrains, collecting stars to increase their score.
+
 # Features
 Star Collection: Collect stars to boost your score.
 Leaderboard: Create an account and compete with players from around the world.
